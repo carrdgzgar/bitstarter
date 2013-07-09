@@ -1,5 +1,5 @@
 var express = require('express');
-var ls = require('ls?');
+var ls = require('ls');
 
 var app = express.createServer(express.logger());
 
